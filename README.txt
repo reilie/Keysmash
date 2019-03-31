@@ -1,0 +1,1 @@
+Play the game via the HTML link!
